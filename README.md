@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-I'm student now, learning Python for 4 years, interested in new technologies
+I'm student now, learning Python for 5 years, interested in new technologies
 
 *   🌍 I'm based in Moscow
 *   ✉️  You can contact me at [mai.grachev.dmitriy@gmail.com](mailto:mai.grachev.dmitriy@gmail.com)
